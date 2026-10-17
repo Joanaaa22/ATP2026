@@ -8,4 +8,4 @@
 TPC5: Aplicação para gestão de alunos.
 
 ## Resultados
-* Aplicação para gestão de alunos (TPC5.ipynb)
+* Turma criada com 5 alunos (turma.txt)
