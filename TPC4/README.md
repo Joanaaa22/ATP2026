@@ -8,4 +8,4 @@
 TPC4: Aplicação para manipulação de listas de inteiros.
 
 ## Resultados
-*Jogo "Corrida para o 100" (TPC4.ipynb)
+*Manipulação de listas de inteiros (TPC4.ipynb)
