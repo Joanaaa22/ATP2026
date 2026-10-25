@@ -8,4 +8,4 @@
 TPC6: Aplicação externa ao notebook.
 
 ## Resultados
-* Aplicação externa ao notebook. (tpc6.ipynb)
+* Aplicação externa ao notebook. (TPC6.ipynb)
